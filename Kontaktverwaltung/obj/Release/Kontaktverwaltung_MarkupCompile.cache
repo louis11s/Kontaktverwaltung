@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\Louis\Documents\Kontaktverwaltung\Kontaktverwaltung\obj\Debug\
+C:\Users\Louis\Documents\Kontaktverwaltung\Kontaktverwaltung\obj\Release\
 Kontaktverwaltung
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Louis\Documents\Kontaktverwaltung\Kontaktverwaltung\App.xaml
 11151548125
 
-101757080531
+6908291215
 14846346597
 MainWindow.xaml;
 
